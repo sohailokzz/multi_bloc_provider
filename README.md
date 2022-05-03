@@ -1,6 +1,6 @@
-# bloc_multi_provider
+## Multi Bloc Provider
 
-A new Flutter project.
+A new Flutter project with multi bloc provider pattern.
 
 ## Getting Started
 
